@@ -1,0 +1,18 @@
+.second-header {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #F5F5F5;
+    padding: 0 35px;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.desription {
+    font-size: 10.24px;
+    line-height: 1.5;
+    color: #DCDCDC;
+    padding: 0 35px;
+    text-align: left;
+    margin-bottom: 28px;
+}

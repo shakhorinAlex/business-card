@@ -1,0 +1,18 @@
+#root {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 21px;
+  text-align: center;
+}
+
+
+.container {
+  background-color: #1A1B21;
+  border-radius: 10px;
+}
+/* 
+@media and screen (min-width: 768px) {
+  #root {
+
+  }
+} */
